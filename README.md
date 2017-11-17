@@ -1,0 +1,2 @@
+# EventAnnouncement
+Announces Server Events
